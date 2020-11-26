@@ -1,0 +1,24 @@
+Database - project
+
+Table - contacts
+Creation 
+1) id - NotNull,Primary key, Auto Increment
+2) complain
+3) mobile
+4) complainT
+5) location
+6) aadharno
+7) photo - mediumBlob
+    
+    
+ Same Database
+ Table - login 
+   1) id- Primary Key,Auto Increment
+   2)firstname
+   3)lastname
+   4)email
+   5)password
+      
+      
+     No other Database 
+      
